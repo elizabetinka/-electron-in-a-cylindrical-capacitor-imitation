@@ -8,6 +8,6 @@
 Начальная скорость V = 4*10**6 м/c \
 Длина конденсатора L = 19 cм \
 
-![](/Users/indo.evri.momint/electron-in-a-cylindrical-capacitor-imitation/picture.png)
+![]([/Users/indo.evri.momint/electron-in-a-cylindrical-capacitor-imitation/picture.png](https://github.com/elizabetinka/electron-in-a-cylindrical-capacitor-imitation/blob/main/picture.png)https://github.com/elizabetinka/electron-in-a-cylindrical-capacitor-imitation/blob/main/picture.png)
 
 ### youtube https://youtu.be/Vx07_ldAwjk
