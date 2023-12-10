@@ -8,6 +8,6 @@
 Начальная скорость V = 4*10**6 м/c \
 Длина конденсатора L = 19 cм \
 
-![alt_text]([picture.png)
+![alt text](picture.png)
 
 ### youtube https://youtu.be/Vx07_ldAwjk
